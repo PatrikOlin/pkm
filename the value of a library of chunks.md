@@ -1,5 +1,8 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - metalearning
 ---
 
 Oavsett vad du lär dig, om det är shack, musik, vetenskap eller programmering så kommer du under tid att bygga upp ett stort mentalt bibliotek av chunks inom din valda disciplin. Ju större detta bibliotek är, desto lättare kommer det vara att hitta lösningar på olika sorters problem, även problem som du aldrig tidigare har stött på.

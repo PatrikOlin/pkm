@@ -1,5 +1,8 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - metalearning
 ---
 
 Studier har visat att "recall", dvs att minnas något och kunna återberätta det,

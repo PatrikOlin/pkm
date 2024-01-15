@@ -1,5 +1,9 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn, learning
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - learning
+  - metalearning
 ---
 
 Enligt en studie av Jeff Karpicke så är en av anledningarna till att studenter

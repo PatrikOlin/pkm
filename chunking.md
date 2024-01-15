@@ -1,5 +1,9 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn, learning
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - learning
+  - metalearning
 ---
 
 # Chunking

@@ -1,5 +1,8 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - metalearning
 ---
 
 Studier har visat att vi har två fundamentalt olika tankesätt (modes of thinking). Det ena kallas ___focused mode___ och det andra ___diffuse mode___.

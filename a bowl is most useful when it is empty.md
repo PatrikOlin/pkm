@@ -9,10 +9,7 @@ tags: philosophy, tao
  >
  >So this teaching is about you, and your mind, and your holding and making.
  >
- >You are right; there is also no functionality if nothing moves. So the Taoist openhandedness is not fixed or stagnant. It is not stuck in pure unchanging emptiness. The pure thing moves, functions, enters into relationship, performs activities, manifests forms. But it doesn't cling to the forms. Once you eat the chili, you wash the bowl: it is open for another use. This letting-go and cleaning and refreshing happens continuously, so at any moment the Taoist can return to the pure emptiness, the pure, open Tao... and from that place she/he can again function appropriately in the new situation.
- >
- >This is the practice. It doesn't come by accident or by religious grace, but by doing it: doing the letting go, situation after situation... doing the open unknowing, moment by moment. And in good training, as can happen in close contact with a master, the student learns how the open point (the Tao) moves through her/him, how it functions appropriately in all kinds of life situations.
- >
+ >You are right; there is also no functionality if nothing moves. So the Taoist openhandedness is not fixed or stagnant. It is not stuck in pure unchanging emptiness. The pure thing moves, functions, enters into relationship, performs activities, manifests forms. But it doesn't cling to the forms. Once you eat the chili, you wash the bowl: it is open for another use. This letting-go and cleaning and refreshing happens continuously, so at any moment the Taoist can reta
  >Someone may have attained the open point without necessarily being strong in the ability to relate and express; so good training is what allows that ability to develop.
  >
  >If you let go of concepts your mind is more free to understand completely. If you let go of all concepts, the Tao that has always been there can unfold perfectly and boundlessly, because your holding and making mind is no longer in the way. Then the sky is blue, water is wet, when your muscles are tired you take a rest, and when the person facing you needs help you help them: the universe unfolds and functions flawlessly.

@@ -1,5 +1,8 @@
 ---
-tags: studynotes, studynotes/learning_how_to_learn
+tags:
+  - studynotes
+  - studynotes/learning_how_to_learn
+  - metalearning
 ---
 
 Det finns många olika sorters minne, men relevanta för inlärning är långtidsminnet och arbetsminnet. Arbetsminnet finns främst i din prefrontal cortex och handlar om det du aktivt fokuserar på. Man brukar säga att arbetsminnet kan hålla fyra "chunks" av information samtidigt (dock kan dessa chunks innehålla ganska mycket information). Långtidsminnet är mer som ett varuhus där du lagrar saker länge och det rymmer miljarder av saker. En annan
