@@ -17,3 +17,4 @@ The way of Renegades - Steve D. Wall
 Rise of the Ranger - Philip C. Quaintrell
 
 ### Övrigt
+Mythos - Stephen Fry

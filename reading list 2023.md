@@ -15,6 +15,7 @@ Staten / The Republic - Platon
 #### The Stormlight Archive - Brandon Sanderson
 The Way of Kings
 Words of Radiance
+Oahtbringer
 Rhythm of War
 
 ### Övrigt
