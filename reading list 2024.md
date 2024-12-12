@@ -4,7 +4,7 @@ tags:
   - philosophy
   - reading_list/2024
 ---
-# Books read 2023
+# Books read 2024
 ## Philosophy 
  The Philosophy of Epicurus - George K Strodach
 
@@ -15,5 +15,8 @@ The way of Renegades - Steve D. Wall
 
 ### The Echoes Saga
 Rise of the Ranger - Philip C. Quaintrell
+
+### Mistborn Trilogy
+
 
 ### Övrigt
